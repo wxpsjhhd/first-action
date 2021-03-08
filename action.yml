@@ -1,0 +1,4 @@
+name: weather-bot
+on:
+  push:
+    
